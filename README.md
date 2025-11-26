@@ -41,16 +41,6 @@ Tenho trabalhado com desenvolvimento, dados e gestão de produtos.
 | **BTG Pactual** | Summer Intern | IA, Core Banking & Análise de Dados (PAMDAI) |
 | **BYJU'S** | Professora de Programação | Educação e Metodologia Maker |
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaylanevasconcelos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylanevasconcelos&layout=compact&theme=dracula"/>
-</div>
-
----
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kaylanevasconcelos/" target="_blank">
